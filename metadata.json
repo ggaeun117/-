@@ -1,0 +1,6 @@
+{
+  "name": "Gaeun Park Portfolio — 문화예술 기획자 박가은",
+  "description": "노션(Notion) 데이터베이스 연동을 기반으로 제작된 문화예술 기획자 박가은(Gaeun Park)의 공연기획·국제교류·대외활동 아카이브 포트폴리오 웹사이트",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
